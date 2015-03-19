@@ -36,8 +36,9 @@ idaInit(con)
 ========================================================
 
  - 1. Import the data into the dashDB with dashDB console with your dashDB account.
-      * [console](https://yp-dashdb-small-01-lon02.services.eu-gb.bluemix.net:8443/console/ibmblu/index_Customer.jsp)
-       
+      * [dashDB console](https://yp-dashdb-small-01-lon02.services.eu-gb.bluemix.net:8443/console/ibmblu/index_Customer.jsp)
+      * [RStudio](http://yp-dashdb-small-01-lon02.services.eu-gb.bluemix.net:8787/) 
+
  - 2. Download the sample data to your desktop 
        * [C_ALL.csv](https://raw.githubusercontent.com/cuericlee/dashDB/master/C_ALL.csv)
        * [C_NEW.csv](https://raw.githubusercontent.com/cuericlee/dashDB/master/C_NEW.csv)
@@ -48,7 +49,7 @@ idaInit(con)
 ========================================================
 
 - 1. Go to dashDB console, Manage -> Run SQL Scripts
-https://yp-dashdb-small-01-lon02.services.eu-gb.bluemix.net:8443/console/ibmblu/index_Customer.jsp
+    *[dashDB console](https://yp-dashdb-small-01-lon02.services.eu-gb.bluemix.net:8443/console/ibmblu/index_Customer.jsp)
 
 - 2. Run folllowing DDL to create views for further anayalitic.
 
