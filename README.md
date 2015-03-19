@@ -36,6 +36,7 @@ idaInit(con)
 ========================================================
 
  - 1. Import the data into the dashDB with dashDB console with your dashDB account.
+      * [bluemix](https://console.ng.bluemix.net/)
       * [dashDB console](https://yp-dashdb-small-01-lon02.services.eu-gb.bluemix.net:8443/console/ibmblu/index_Customer.jsp)
       * [RStudio](http://yp-dashdb-small-01-lon02.services.eu-gb.bluemix.net:8787/) 
 
